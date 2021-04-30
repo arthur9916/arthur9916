@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arthur9916
 - 👀 I’m interested in Data Science with Python and R
-- 🌱 I’m currently learning Data Science with Python and R
+- 🌱 I’m currently learning Data Science with R
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me mchuks762@gmail.com
 
